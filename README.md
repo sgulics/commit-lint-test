@@ -2,3 +2,5 @@
 Testing Commit Lint
 
 Testing linter
+
+Testing commitlint

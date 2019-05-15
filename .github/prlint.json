@@ -1,7 +1,7 @@
 {
   "title": [
     {
-      "pattern": "^(build|ci|docs|feat|fix|perf|refactor|style|test): JIRA-\\d{1,4} - \\s",
+      "pattern": "/^(build|ci|docs|feat|fix|perf|refactor|style|test): (JIRA)-\\d{1,10} - .{1,}/",
       "message": "Your title needs to be prefixed with a topic"
     }
   ],

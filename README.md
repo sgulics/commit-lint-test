@@ -8,3 +8,5 @@ Testing commitlint
 Testing prlint
 
 teting prlint with JIRA
+
+testing squash & merge
